@@ -13,9 +13,9 @@ I hope we get along!
 
 Most of my current work centers on low-level static analysis with Ghidra.
 
-- **[static-analysis-lab](https://github.com/ziel01-kuro/static-analysis-lab)** — Lab environment for PE static analysis using reverse engineering tools.
-- **[crackme-solutions](https://github.com/ziel01-kuro/crackme-solutions)** — Write-ups and solutions for challenges from crackmes.one.
-- **[learning-journal](https://github.com/ziel01-kuro/learning-journal)** — Running log of what I'm learning in reverse engineering, from tooling notes to technique breakdowns.
+- **[static-analysis-lab](https://github.com/ziel01-kuro/static-analysis-lab)** = Lab environment for PE static analysis using reverse engineering tools.
+- **[crackme-solutions](https://github.com/ziel01-kuro/crackme-solutions)** = Write-ups and solutions for challenges from crackmes.one.
+- **[learning-journal](https://github.com/ziel01-kuro/learning-journal)** = Running log of what I'm learning in reverse engineering, from tooling notes to technique breakdowns.
 
 **Independent project:** Reverse engineering a Nintendo Switch V1 (Tegra X1) — full eMMC dump and partition extraction, NCA/NSO → exeFS conversion, and static analysis of the iROM in Ghidra (ARM:LE:32:v4t) to study the Fusée Gelée bootROM vulnerability and hardware root-of-trust mechanisms. Used as the basis for an academic presentation.  
 
